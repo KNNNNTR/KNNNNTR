@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KNNNNTR
+- 👋 Hi, I’m Kenan "@KNNNNTR" Sürmeli
 - 👀 I’m interested in Web / App / Game Development
 - 🌱 I’m currently learning JavaScript and ASP.NET
 - 📫 How to reach me > kenansurmeli2004@icloud.com
